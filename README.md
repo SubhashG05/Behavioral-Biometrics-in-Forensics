@@ -1,9 +1,9 @@
 # Behavioral-Biometrics-in-Forensics
 
-![Model Flow](Research%20Model%20Flow%20Diagram2.jpg)
-
 ## 🔍 Overview
 This project proposes a novel AI-based framework that enhances forensic investigations by utilizing **behavioral biometrics**, with a primary focus on **facial micro-expression recognition**. Traditional forensic methods often face limitations when physical evidence is insufficient, tampered, or deliberately obfuscated. This research explores how **deep learning techniques** can help uncover subtle behavioral cues that are difficult to fake, enabling more accurate and reliable identification in forensic scenarios.
+
+![Model Flow](Research%20Model%20Flow%20Diagram2.jpg)
 
 ## 🧠 Core Components
 - **Input**: CASME II Micro-Expression Dataset
